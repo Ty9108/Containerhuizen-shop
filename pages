@@ -1,0 +1,5 @@
+/pages/index.js
+/pages/api/create-payment.js
+/pages/api/mollie-webhook.js
+/pages/api/orders.js
+/pages/api/products.js
